@@ -1,0 +1,354 @@
+	
+[
+  {
+    "keys": [
+      "authn.author_sn",
+      "ttweet2.tid",
+      "auths3.author_sn",
+      "ttweet3.tid",
+      "ttweet2.reply_count"
+    ],
+    "length": 5,
+    "_fields": [
+      "SrBachchan",
+      "961751163233169408",
+      "EfRakesh",
+      "961751163233169408",
+      {
+        "low": 0,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "authn.author_sn": 0,
+      "ttweet2.tid": 1,
+      "auths3.author_sn": 2,
+      "ttweet3.tid": 3,
+      "ttweet2.reply_count": 4
+    }
+  },
+  {
+    "keys": [
+      "authn.author_sn",
+      "ttweet2.tid",
+      "auths3.author_sn",
+      "ttweet3.tid",
+      "ttweet2.reply_count"
+    ],
+    "length": 5,
+    "_fields": [
+      "SrBachchan",
+      "961751086519349248",
+      "EfRakesh",
+      "961751086519349248",
+      {
+        "low": 0,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "authn.author_sn": 0,
+      "ttweet2.tid": 1,
+      "auths3.author_sn": 2,
+      "ttweet3.tid": 3,
+      "ttweet2.reply_count": 4
+    }
+  },
+  {
+    "keys": [
+      "authn.author_sn",
+      "ttweet2.tid",
+      "auths3.author_sn",
+      "ttweet3.tid",
+      "ttweet2.reply_count"
+    ],
+    "length": 5,
+    "_fields": [
+      "SrBachchan",
+      "961750944789622784",
+      "EfRakesh",
+      "961750944789622784",
+      {
+        "low": 0,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "authn.author_sn": 0,
+      "ttweet2.tid": 1,
+      "auths3.author_sn": 2,
+      "ttweet3.tid": 3,
+      "ttweet2.reply_count": 4
+    }
+  },
+  {
+    "keys": [
+      "authn.author_sn",
+      "ttweet2.tid",
+      "auths3.author_sn",
+      "ttweet3.tid",
+      "ttweet2.reply_count"
+    ],
+    "length": 5,
+    "_fields": [
+      "SrBachchan",
+      "961751262411698176",
+      "EfRakesh",
+      "961751262411698176",
+      {
+        "low": 0,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "authn.author_sn": 0,
+      "ttweet2.tid": 1,
+      "auths3.author_sn": 2,
+      "ttweet3.tid": 3,
+      "ttweet2.reply_count": 4
+    }
+  },
+  {
+    "keys": [
+      "authn.author_sn",
+      "ttweet2.tid",
+      "auths3.author_sn",
+      "ttweet3.tid",
+      "ttweet2.reply_count"
+    ],
+    "length": 5,
+    "_fields": [
+      "SrBachchan",
+      "961750850153541633",
+      "EfRakesh",
+      "961750850153541633",
+      {
+        "low": 0,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "authn.author_sn": 0,
+      "ttweet2.tid": 1,
+      "auths3.author_sn": 2,
+      "ttweet3.tid": 3,
+      "ttweet2.reply_count": 4
+    }
+  },
+  {
+    "keys": [
+      "authn.author_sn",
+      "ttweet2.tid",
+      "auths3.author_sn",
+      "ttweet3.tid",
+      "ttweet2.reply_count"
+    ],
+    "length": 5,
+    "_fields": [
+      "SrBachchan",
+      "961750723229880320",
+      "joshuadavid_uk",
+      "961750723229880320",
+      {
+        "low": 0,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "authn.author_sn": 0,
+      "ttweet2.tid": 1,
+      "auths3.author_sn": 2,
+      "ttweet3.tid": 3,
+      "ttweet2.reply_count": 4
+    }
+  },
+  {
+    "keys": [
+      "authn.author_sn",
+      "ttweet2.tid",
+      "auths3.author_sn",
+      "ttweet3.tid",
+      "ttweet2.reply_count"
+    ],
+    "length": 5,
+    "_fields": [
+      "SrBachchan",
+      "961750670616481798",
+      "joshuadavid_uk",
+      "961750670616481798",
+      {
+        "low": 0,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "authn.author_sn": 0,
+      "ttweet2.tid": 1,
+      "auths3.author_sn": 2,
+      "ttweet3.tid": 3,
+      "ttweet2.reply_count": 4
+    }
+  },
+  {
+    "keys": [
+      "authn.author_sn",
+      "ttweet2.tid",
+      "auths3.author_sn",
+      "ttweet3.tid",
+      "ttweet2.reply_count"
+    ],
+    "length": 5,
+    "_fields": [
+      "SrBachchan",
+      "961750513955024897",
+      "abha0276",
+      "961750513955024897",
+      {
+        "low": 0,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "authn.author_sn": 0,
+      "ttweet2.tid": 1,
+      "auths3.author_sn": 2,
+      "ttweet3.tid": 3,
+      "ttweet2.reply_count": 4
+    }
+  },
+  {
+    "keys": [
+      "authn.author_sn",
+      "ttweet2.tid",
+      "auths3.author_sn",
+      "ttweet3.tid",
+      "ttweet2.reply_count"
+    ],
+    "length": 5,
+    "_fields": [
+      "SrBachchan",
+      "961750549560483840",
+      "abha0276",
+      "961750549560483840",
+      {
+        "low": 0,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "authn.author_sn": 0,
+      "ttweet2.tid": 1,
+      "auths3.author_sn": 2,
+      "ttweet3.tid": 3,
+      "ttweet2.reply_count": 4
+    }
+  },
+  {
+    "keys": [
+      "authn.author_sn",
+      "ttweet2.tid",
+      "auths3.author_sn",
+      "ttweet3.tid",
+      "ttweet2.reply_count"
+    ],
+    "length": 5,
+    "_fields": [
+      "SrBachchan",
+      "961751471678279680",
+      "vishal9815",
+      "961751471678279680",
+      {
+        "low": 0,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "authn.author_sn": 0,
+      "ttweet2.tid": 1,
+      "auths3.author_sn": 2,
+      "ttweet3.tid": 3,
+      "ttweet2.reply_count": 4
+    }
+  },
+  {
+    "keys": [
+      "authn.author_sn",
+      "ttweet2.tid",
+      "auths3.author_sn",
+      "ttweet3.tid",
+      "ttweet2.reply_count"
+    ],
+    "length": 5,
+    "_fields": [
+      "SrBachchan",
+      "961750970442158082",
+      "vishal9815",
+      "961750970442158082",
+      {
+        "low": 0,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "authn.author_sn": 0,
+      "ttweet2.tid": 1,
+      "auths3.author_sn": 2,
+      "ttweet3.tid": 3,
+      "ttweet2.reply_count": 4
+    }
+  },
+  {
+    "keys": [
+      "authn.author_sn",
+      "ttweet2.tid",
+      "auths3.author_sn",
+      "ttweet3.tid",
+      "ttweet2.reply_count"
+    ],
+    "length": 5,
+    "_fields": [
+      "SrBachchan",
+      "961750665151172608",
+      "NadkarAmit",
+      "961750665151172608",
+      {
+        "low": 0,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "authn.author_sn": 0,
+      "ttweet2.tid": 1,
+      "auths3.author_sn": 2,
+      "ttweet3.tid": 3,
+      "ttweet2.reply_count": 4
+    }
+  },
+  {
+    "keys": [
+      "authn.author_sn",
+      "ttweet2.tid",
+      "auths3.author_sn",
+      "ttweet3.tid",
+      "ttweet2.reply_count"
+    ],
+    "length": 5,
+    "_fields": [
+      "SrBachchan",
+      "961751009784573952",
+      "NadkarAmit",
+      "961751009784573952",
+      {
+        "low": 0,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "authn.author_sn": 0,
+      "ttweet2.tid": 1,
+      "auths3.author_sn": 2,
+      "ttweet3.tid": 3,
+      "ttweet2.reply_count": 4
+    }
+  }
+]

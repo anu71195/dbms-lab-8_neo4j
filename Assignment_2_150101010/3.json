@@ -1,0 +1,150 @@
+	
+[
+  {
+    "keys": [
+      "loc",
+      "auth2.author_sn",
+      "mentions",
+      "ttweet4.tid",
+      "count(mentions)"
+    ],
+    "length": 5,
+    "_fields": [
+      {
+        "identity": {
+          "low": 456750,
+          "high": 0
+        },
+        "labels": [
+          "location"
+        ],
+        "properties": {
+          "location": "India"
+        }
+      },
+      "sttalkindia",
+      {
+        "identity": {
+          "low": 456561,
+          "high": 0
+        },
+        "labels": [
+          "mention"
+        ],
+        "properties": {
+          "mention": "OfficeOfRG"
+        }
+      },
+      "969361502258962432",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "loc": 0,
+      "auth2.author_sn": 1,
+      "mentions": 2,
+      "ttweet4.tid": 3,
+      "count(mentions)": 4
+    }
+  },
+  {
+    "keys": [
+      "loc",
+      "auth2.author_sn",
+      "mentions",
+      "ttweet4.tid",
+      "count(mentions)"
+    ],
+    "length": 5,
+    "_fields": [
+      {
+        "identity": {
+          "low": 456750,
+          "high": 0
+        },
+        "labels": [
+          "location"
+        ],
+        "properties": {
+          "location": "India"
+        }
+      },
+      "ndtv",
+      {
+        "identity": {
+          "low": 456630,
+          "high": 0
+        },
+        "labels": [
+          "mention"
+        ],
+        "properties": {
+          "mention": "juniorbachchan"
+        }
+      },
+      "947958110588669953",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "loc": 0,
+      "auth2.author_sn": 1,
+      "mentions": 2,
+      "ttweet4.tid": 3,
+      "count(mentions)": 4
+    }
+  },
+  {
+    "keys": [
+      "loc",
+      "auth2.author_sn",
+      "mentions",
+      "ttweet4.tid",
+      "count(mentions)"
+    ],
+    "length": 5,
+    "_fields": [
+      {
+        "identity": {
+          "low": 456750,
+          "high": 0
+        },
+        "labels": [
+          "location"
+        ],
+        "properties": {
+          "location": "India"
+        }
+      },
+      "ndtv",
+      {
+        "identity": {
+          "low": 456579,
+          "high": 0
+        },
+        "labels": [
+          "mention"
+        ],
+        "properties": {
+          "mention": "priyankachopra"
+        }
+      },
+      "943264684215435265",
+      {
+        "low": 1,
+        "high": 0
+      }
+    ],
+    "_fieldLookup": {
+      "loc": 0,
+      "auth2.author_sn": 1,
+      "mentions": 2,
+      "ttweet4.tid": 3,
+      "count(mentions)": 4
+    }
+  }
+]

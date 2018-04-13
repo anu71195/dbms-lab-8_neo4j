@@ -1,0 +1,22 @@
+match(ttweet) where ttweet.type="Tweet" 
+match(ttweet2)-[:tweeted_from]-(loc) where ttweet2.tid=ttweet.tid and loc.location="India"
+match(ttweet3)-[:has_author_id]-()-[:has_sname]-(auth2) where ttweet3.tid=ttweet2.tid
+match(ttweet4)-[:has_mention]-(mentions) where ttweet3.tid=ttweet4.tid
+return loc.location,auth2.author_sn,mentions.mention, ttweet4.tid, count(mentions)
+order by count(mentions) desc
+LIMIT 3
+
+
+match(ttweet)-[:has_author_id]-(auth)-[:has_sname]-(authn) where ttweet.type="Tweet" and authn.author_sn="SrBachchan" 
+match(ttweet2)-[:reply_id]-(reply_id2) where reply_id2.reply_id=ttweet.tid 
+match(ttweet3)-[:has_author_id]-(auth3)-[:has_sname]-(auths3) where ttweet3.tid=ttweet2.tid 
+return authn.author_sn,ttweet2.tid ,auths3.author_sn,ttweet3.tid,ttweet2.reply_count
+order by ttweet2.reply_count desc 
+
+
+match(ttweet)-[:has_author_id]-(auth)-[:has_sname]-(authn) where ttweet.type="Tweet" and authn.author_sn="SrBachchan" 
+match(ttweet2)-[:reply_id]-(reply_id2) where reply_id2.reply_id=ttweet.tid 
+match(ttweet3)-[:has_author_id]-(auth3)-[:has_sname]-(auths3) where ttweet3.tid=ttweet2.tid 
+return authn ,ttweet2  ,auths3 ,ttweet3 ,ttweet2 
+order by ttweet2.reply_count desc 
+
