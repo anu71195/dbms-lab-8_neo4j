@@ -1,0 +1,8 @@
+1)
+
+MATCH (tid_label)-[:has_name]-(ath) where ath.author_name="Judy💯The Resistance" 
+MATCH (tid_label2)-[:has_author]-(ath2) where tid_label2.author_id=tid_label.author_id return ath2
+2)
+
+MATCH (tid_label:tid)-[:has_name]-(ath) where ath.author_name=""
+MATCH (tid_label2:tid)-[:has_mentions]-(ment) where tid_label2=tid_label
